@@ -102,7 +102,7 @@ upper_bound = d_hat+1.96*SE
 if 0 < lower_bound <=mde:
     print('Launch the B version!')
 else:
-    print('Check the results wether it is to not launch or make additional research.')
+    print('Check the results whether it is to not launch or make additional research.')
     
     '''
     - The table presented a difference of 0.076 in terms of conversion rate 
