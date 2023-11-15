@@ -14,4 +14,5 @@ TOOLS
 ![ab_testing tools](https://github.com/domingosdeeulariadumba/myABtesting/assets/110714056/b931834f-5e33-4159-9881-b1cd84339036)
 
 REFERENCES
-![ab_testing references](https://github.com/domingosdeeulariadumba/myABtesting/assets/110714056/3ee0194c-5ab9-4b75-afec-36a2f602084f)
+![ab_testing references](https://github.com/domingosdeeulariadumba/myABtesting/assets/110714056/9f68642a-8b32-424c-9692-928194a07396)
+
